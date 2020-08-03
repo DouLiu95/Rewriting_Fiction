@@ -111,7 +111,7 @@ def replace_gender(text):
 get all the names with the probility of gender
 '''
 def get_allname():
-    csv_file = csv.reader(open('C:\\Users\\LDLuc\\Downloads\\2020-04\\REDI\\name_gender.csv', 'r'))
+    csv_file = csv.reader(open('name_gender.csv', 'r'))
     male = []
     female = []
     unsex = []
