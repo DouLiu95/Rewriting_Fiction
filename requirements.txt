@@ -1,0 +1,73 @@
+beautifulsoup4==4.9.3
+blis==0.4.1
+boto==2.49.0
+boto3==1.13.9
+botocore==1.16.9
+brotlipy==0.7.0
+bs4==0.0.1
+catalogue==1.0.0
+certifi==2020.11.8
+cffi @ file:///D:/bld/cffi_1606601427219/work
+chardet @ file:///D:/bld/chardet_1602255574834/work
+click==7.1.2
+colorama==0.4.4
+ConfigArgParse==1.4
+Counter==1.0.0
+cryptography @ file:///D:/bld/cryptography_1604179260895/work
+cycler==0.10.0
+Cython==0.29.14
+docutils==0.15.2
+en-core-web-lg @ https://github.com/explosion/spacy-models/releases/download/en_core_web_lg-2.2.5/en_core_web_lg-2.2.5.tar.gz
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.2.5/en_core_web_sm-2.2.5.tar.gz
+filelock @ file:///home/conda/feedstock_root/build_artifacts/filelock_1589994591731/work
+gensim==3.8.3
+idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1593328102638/work
+jellyfish==0.7.2
+jmespath==0.10.0
+joblib @ file:///home/conda/feedstock_root/build_artifacts/joblib_1601671685479/work
+jupyter==1.0.0
+Keras-Preprocessing==1.1.1
+kiwisolver==1.3.1
+language-tool-python==2.5.3
+lxml==4.6.2
+matplotlib==3.3.3
+mkl-service==2.3.0
+nltk==3.4.4
+numpy @ file:///D:/bld/numpy_1604946150193/work
+packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1589925210001/work
+Pillow==8.0.1
+preshed==3.0.2
+protobuf==3.13.0
+psutil==5.7.3
+pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1593275161868/work
+pyemd==0.5.1
+pyLanguagetool==0.9.1
+pyOpenSSL @ file:///home/conda/feedstock_root/build_artifacts/pyopenssl_1606535649775/work
+pyparsing==2.4.7
+Pyphen==0.9.5
+PySocks @ file:///D:/bld/pysocks_1602327025506/work
+python-dateutil==2.8.1
+regex @ file:///D:/bld/regex_1605271133491/work
+requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1605186911681/work
+s3transfer==0.3.3
+sacremoses @ file:///home/conda/feedstock_root/build_artifacts/sacremoses_1588857588528/work
+scipy==1.4.1
+sentencepiece==0.1.91
+senticnet==1.6
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1590081179328/work
+smart-open==2.0.0
+soupsieve==2.0.1
+spacy==2.2.4
+stanfordcorenlp==3.9.1.1
+stanza==1.1.1
+textacy==0.10.0
+textstat==0.6.2
+thinc==7.4.0
+tokenizers @ file:///D:/bld/tokenizers_1605764444908/work
+torch @ file:///C:/ci/pytorch_1596721630134/work
+tqdm @ file:///home/conda/feedstock_root/build_artifacts/tqdm_1606492128227/work
+transformers @ file:///home/conda/feedstock_root/build_artifacts/transformers_1605792149132/work
+urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1603125704209/work
+win-inet-pton @ file:///D:/bld/win_inet_pton_1602260090416/work
+wincertstore==0.2
+wordhoard==1.2
