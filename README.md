@@ -4,7 +4,7 @@ This reposity contains the source codes and resources of the Rewriting Fcition p
 ## Demo
 Please check http://www.fictionrewriting.com:8000/ for the web demo of Rewriting Fiction project. 
 
-##Requirement
+## Requirement
 - Create an virtual environment
 - Python 3.7
 - Install the requirements: `pip install -r requirements.txt`
