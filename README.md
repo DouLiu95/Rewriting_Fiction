@@ -1,5 +1,5 @@
 # Rewriting Fiction
-This repository contains the source codes and resources of the Rewriting Fcition project.
+This repository contains the source codes and resources of the Rewriting Fiction project.
 
 ## Demo
 Please check http://www.fictionrewriting.com:8000/ for the web demo of Rewriting Fiction project. 
@@ -19,3 +19,14 @@ You could simply run the `rewrinting.py`and see the result of the rewriting.
 Some more examples for our evaluation and the rewriting results can be found here:
 - https://docs.google.com/forms/d/1-mvLP0IrC73fGKOLZ1xwvpFzSeAmPuYZtUvCYQCIfwA/viewform?edit_requested=true
 - https://docs.google.com/forms/d/16YRk_SaJbFBNnQZ2Vq_Pln7iG8PHUc-psu7sqB9n60w/viewform?edit_requested=true
+
+## Citation
+Please cite our paper if you use `Rewriting Fiction`:
+```angular2
+@inproceedings{dou2021rf,
+  title={Rewriting Fictional Texts using Pivot Paraphrase Generation and Character Modification},
+  author={Dou, Liu and Tingting, Zhu and Jörg, Schlötterer and Christin, Seifert and Shenghui, Wang},
+  booktitle={International Conference on Text, Speech, and Dialogue},
+  year = {2021}
+}
+```
