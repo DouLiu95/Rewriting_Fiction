@@ -3,6 +3,7 @@ This repository contains the source codes and resources of the Rewriting Fiction
 
 ## Demo
 Please check http://www.fictionrewriting.com:8000/ for the web demo of Rewriting Fiction project. 
+
 Check https://docs.google.com/presentation/d/1-Hcsl7yCvYbU-VgITnBw63wB3Clx8KzSDDGKhewTogc/edit?usp=sharing and https://docs.google.com/presentation/d/1u2igm_d9kIaeEIcn-gQGOD7j0dmF5SmyJyhmGyH4ABI/edit?usp=sharing for the slides and poster.
 ## Requirement
 - Create an virtual environment.
