@@ -35,7 +35,7 @@ mkl-service==2.3.0
 nltk==3.4.5
 numpy @ file:///D:/bld/numpy_1604946150193/work
 packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1589925210001/work
-Pillow==8.1.1
+Pillow==9.0.0
 preshed==3.0.2
 protobuf==3.13.0
 psutil==5.7.3
